@@ -1,0 +1,41 @@
+.texto-menor{
+    font-size: 13px;
+}
+.divs-facilidades{
+width: 325px;
+
+
+}
+
+.roxo{
+    background-color:  #6f42c1;
+    color: aliceblue;
+    padding: 10px;
+    font-weight: 600;
+    border-radius: 7px;
+    align-items: center;
+    transition: 0.5s;
+    text-decoration: none;
+  
+}
+.roxo:hover{
+    transform: 1.0s;
+    background-color: rgb(123, 22, 163);
+}
+
+
+
+.formulario-linha{
+    width: 325px;
+
+}
+
+@media(min-width: 768px){
+ .formulario-linha{
+
+    width: 650px;
+
+ }
+
+}
+
